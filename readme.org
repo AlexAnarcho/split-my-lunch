@@ -1,0 +1,10 @@
+#+TITLE: Split My Lunch
+
+⚠️ Still under development
+
+* About
+A simple webapp that uses the Monero RPC Wallet and Viewkeys to allow co-workers to split the lunch bill.
+* The work flow
+- You would set the app up in the office and make the app available to the co-workers (either with the internal network or by hosting it on the internet).
+- Then every coworker sets up a view only wallet by adding their viewkey to the config files
+- Co-workers can create orders with invoices that update when the invoice has been payed
