@@ -1,0 +1,14 @@
+#+TITLE: Split My Lunch Backend
+
+* How to install
+- You need to start an instance of the Monero Wallet RPC.
+  - In a real world scenario the node should probably be replaced by a selfhosted node.
+    #+begin_src bash
+    monero-wallet-rpc --daemon-address http://stagenet.community.rino.io:38081 --daemon-login superuser:abctesting123 --rpc-ssl disabled --stagenet --rpc-bind-port 38083 --rpc-login superuser:abctesting123 --wallet-dir ./
+    #+end_src
+  - Run from the directory where the wallet files are located
+
+#+begin_src bash
+yarn
+yarn start:dev
+#+end_src

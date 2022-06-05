@@ -1,0 +1,7 @@
+#+TITLE: Split My Lunch Frontend
+
+* How to install
+#+begin_src bash
+yarn
+yarn start
+#+end_src
