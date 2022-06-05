@@ -1,0 +1,12 @@
+- name: alex
+  viewkey: d4413f09c7afa193dc7d9135e938f160443bb502f704d9f65e13713252729e04
+  walletname: mywallet
+  password: 'supersecretpassword'
+# - name: Matthias
+#   seed: "coexist igloo pamphlet lagoon..."
+# - name: Mathias
+#   seed: "coexist igloo pamphlet lagoon..."
+# - name: Klaus
+#   seed: "coexist igloo pamphlet lagoon..."
+# - name: Kilian
+#   seed: "coexist igloo pamphlet lagoon..."
